@@ -1,0 +1,67 @@
+
+@media (max-width:991px) {
+
+    .bannerH {
+        font-size: 29px;
+    }
+    .bannerH2 {
+        font-size: 19px;
+    }
+    .bannerP {
+        font-size: 12px;
+    }
+    .bannerpara {
+        text-align: center;
+    }
+    .registerBtn {
+        padding: 4px 13px;
+    }
+    .footerP2{
+        width: 100%;
+    }
+    .proudMain {
+        font-size: 33px;
+    }
+    .navul li{
+        padding-left: 0px !important; 
+    }
+}
+
+@media only screen and (max-width: 990px){
+    .owl-theme .owl-controls,
+    .owl-prev,
+    .owl-next{
+        position: relative;
+        left: 0;
+        right: 0;
+    }
+}
+@media only screen and (max-width: 768px){
+    .testimonial .testimonial-content{
+        padding: 15px 10px 12px;
+    }
+    .testimonial .rating{
+        right: 12px;
+    }
+}
+@media (max-width:420px){
+    .featureMain {
+    font-size: 22px;
+    }
+    .categoriesH {
+        font-size: 23px;
+    }
+    .proudMain {
+        font-size: 23px;
+        padding: 0px 4px!important;
+    }
+    .proudH {
+        font-size: 29px;
+    }
+    .solutionH {
+        font-size: 23px;
+    }
+    .downloadH {
+        font-size: 23px;
+    }    
+}
